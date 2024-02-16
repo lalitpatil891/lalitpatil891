@@ -1,12 +1,13 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Lalit Patil</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-- 🔭 I’m currently working on **Smart Solar Grass Cutter **
-- 🌱 I’m currently learning **Android App Development**
+- 🔭 I’m currently working on "Smart Solar Grass Cutter"
+- 🌱 I’m currently learning "Android App Development"
 
 - 📫 How to reach me **lp613408@gmail.com**
-- 📄 Know about my experiences ** https://drive.google.com/drive/u/0/my-drive**
+- 📄 Know about my experiences ** https://drive.google.com/drive/u/0/my-drive **
 - ⚡ Fun fact **Coding humor: Debugging is finding a needle in a haystack-sized code.**
+- 
 
 
 <a href="https://github.com/lalitpatil891" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -14,7 +15,12 @@
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Lalit__8" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Lalit__8" height="30" width="40" /></a><a href="https://linkedin.com/in/lalit-patil-48b3b1243" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="lalit-patil-48b3b1243" height="30" width="40" /></a><a href="https://fb.com/lalitpatil891" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="lalitpatil891" height="30" width="40" /></a><a href="https://instagram.com/lalitpatil_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="lalitpatil_8" height="30" width="40" /></a></p>
-
+<h3 align="left">Glad to see you here! </h3>
+<p align="left">
+I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
+As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world
+That's why I like to make things that make a difference.
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/arduino-1.svg" alt="Arduino" width="40" height="40"/>
