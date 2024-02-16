@@ -1,5 +1,5 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-# Welcome to [Lalit Patil's]('') profile! <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<!---img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" /----->
+# Welcome to [Lalit Patil's]('https://github.com/lalitpatil891#') profile! <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <a href="https://linkedin.com/in/lalit-patil-48b3b1243" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalit-patil-48b3b1243" height="30" width="40" /></a>
 &nbsp;
 <a href="https://twitter.com/Lalit__8" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lalit__8" height="30" width="40" /></a>
@@ -29,13 +29,6 @@ That's why I like to make things that make a difference.
 - 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
 - ⚡ Fun fact **Coding humor: Debugging is finding a needle in a haystack-sized code.**
 - 
-
-<h3 align="left">Glad to see you here! </h3>
-<p align="left">
-I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
-As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world
-That's why I like to make things that make a difference.
-</p>
 ## 🛠️ My Favourite tools and languages
 
 ### 👨‍💻 Programming languages
