@@ -78,14 +78,15 @@ CSS          3 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<br />
+<br/>
 </details>
-<h3 align="right">Stars</h3>
+<div align="center">
+<h3 align="left">Stars</h3>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitpatil891&langs_count=8&theme=dark" alt=lalitpatil891 />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lalitpatil891&show_icons=true&locale=en&theme=dark" alt="lalitpatil891" /></p>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitpatil891&theme=dark" alt="lalitpatil891" /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
+
 <a href="https://github.com/lalitpatil891">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lalitpatil891&theme=algolia" height="180em" />
 </div>
