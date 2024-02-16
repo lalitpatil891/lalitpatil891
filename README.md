@@ -23,10 +23,10 @@ That's why I like to make things that make a difference.
   👨‍🎓 I'm a **Computer Engineering Student**
 - 🔭 I’m currently working on "Smart Solar Grass Cutter" (Final Year Project).
 - 🌱 I’m currently learning:
-    - Android App Development
-    - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
+    - Android App Development on [Internshala](https://trainings.internshala.com/android-course/?tracking_source=trainings-dropdown-programming) 
+    - Data Structures and Algorithms on [LeetCode](https://leetcode.com/lalitpatil_8/)
 - 📬 How to reach me: [lp613408@gmail.com](mailto:lp613408@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
+- 📝 [Resume](https://drive.google.com/drive/u/0/folders/1ByA_QaUhUdGojqBcY-P8VKv3f5d3pSbx?q=parent:1ByA_QaUhUdGojqBcY-P8VKv3f5d3pSbx)
 - ⚡ Fun fact **Coding humor: Debugging is finding a needle in a haystack-sized code.**
   
 ## 🛠️ My Favourite tools and languages
