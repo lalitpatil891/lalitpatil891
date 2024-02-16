@@ -75,7 +75,7 @@ That's why I like to make things that make a difference.
 JavaScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   70.00 % 
 CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   30.55 % 
 
-```
+
 <!--END_SECTION:waka-->
 
 <br/>
