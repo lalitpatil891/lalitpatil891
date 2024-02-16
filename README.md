@@ -78,7 +78,9 @@ CSS          3 mins          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+```
 <br/>
+
 </details>
 <div align="center">
 <h3 align="left"> Stars </h3>
