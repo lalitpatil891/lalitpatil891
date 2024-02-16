@@ -69,16 +69,16 @@ That's why I like to make things that make a difference.
 
 📊 <b>This Week I Spent My Time On</b>
 
-<!--START_SECTION:waka-->
+<!---START_SECTION:waka--->
 ```text
 
 JavaScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   70.00 % 
 CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   30.55 % 
 
-
-<!--END_SECTION:waka-->
-
 ```
+<!---END_SECTION:waka--->
+
+
 <br/>
 
 </details>
