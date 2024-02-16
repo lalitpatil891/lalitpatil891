@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Android App Development**
 
 - 📫 How to reach me **lp613408@gmail.com**
-- 📄 Know about my experiences ** [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/folders/1ByA_QaUhUdGojqBcY-P8VKv3f5d3pSbx)**
+- 📄 Know about my experiences ** https://drive.google.com/drive/u/0/my-drive**
 - ⚡ Fun fact **Coding humor: Debugging is finding a needle in a haystack-sized code.**
 
 <div> <a href="https://twitter.com/Lalit__8" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -34,14 +34,16 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitpatil891&layout=compact&theme=onedark" alt=lalitpatil891 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitpatil891&layout=compact&theme=transparent" alt=lalitpatil891 />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/lalitpatil891">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lalitpatil891&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lalitpatil891&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lalitpatil891&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lalitpatil891&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lalitpatil891&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lalitpatil891&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lalitpatil891&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lalitpatil891&theme=transparent" height="180em" />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lalitpatil891&theme=react-dark"/>
