@@ -8,6 +8,7 @@
 - 📄 Know about my experiences ** https://drive.google.com/drive/u/0/my-drive**
 - ⚡ Fun fact **Coding humor: Debugging is finding a needle in a haystack-sized code.**
 
+
 <a href="https://github.com/lalitpatil891" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:lp613408@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
@@ -42,5 +43,3 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lalitpatil891&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lalitpatil891&theme=transparent" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lalitpatil891&theme=react-dark"/>
