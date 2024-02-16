@@ -70,11 +70,10 @@ That's why I like to make things that make a difference.
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Wakatime" src=" https://wakatime.com/badge/user/018db10d-ffa2-442f-8d5f-13e55623110b.svg"></a>
-   
 </p>
+
 ## 📊 Stats
-[![wakatime](https://wakatime.com/badge/user/018db10d-ffa2-442f-8d5f-13e55623110b.svg)](https://wakatime.com/@018db10d-ffa2-442f-8d5f-13e55623110b)<b>&nbsp; coded, since FEB 02 2024</b>
+[![wakatime](https://wakatime.com/badge/user/018db10d-ffa2-442f-8d5f-13e55623110b.svg)](https://wakatime.com/@018db10d-ffa2-442f-8d5f-13e55623110b) <b>&nbsp; coded, since FEB 02 2024</b>
 
 📊 <b>This Week I Spent My Time On</b>
 
