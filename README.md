@@ -65,7 +65,7 @@ That's why I like to make things that make a difference.
 </p>
 
 ## 📊 Stats
-[![wakatime](https://wakatime.com/badge/user/018db10d-ffa2-442f-8d5f-13e55623110b/project/018db11f-5b41-42e6-a865-521ac5aca075.svg)](https://wakatime.com/badge/user/018db10d-ffa2-442f-8d5f-13e55623110b/project/018db11f-5b41-42e6-a865-521ac5aca075) <b>&nbsp; coded, since FEB 02 2024</b>
+[![wakatime](https://wakatime.com/badge/user/018db10d-ffa2-442f-8d5f-13e55623110b/project/018db11f-5b41-42e6-a865-521ac5aca075.svg)](https://wakatime.com/badge/user/018db10d-ffa2-442f-8d5f-13e55623110b/project/018db11f-5b41-42e6-a865-521ac5aca075) <b>&nbsp; coded, since FEB 16 2024</b>
 
 📊 <b>This Week I Spent My Time On</b>
 
