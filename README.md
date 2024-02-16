@@ -12,7 +12,7 @@
 ## Glad to see you here! &nbsp; 
 
 I am a full-stack software engineer. I love programming, reading, writing and speaking.
-As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
+As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.<br/>
 That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
@@ -81,11 +81,13 @@ CSS          3 mins          ░░░░░░░░░░░░░░░░░
 <br/>
 </details>
 <div align="center">
-<h3 align="center">------------------- Stars -------------------</h3>
+<h3 align="left"> Stars </h3>
+<br/>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitpatil891&langs_count=8&theme=dark" alt=lalitpatil891 />
 <p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=lalitpatil891&show_icons=true&locale=en&theme=dark" alt="lalitpatil891" /></p>
+  <br/>
 <!---p<img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitpatil891&theme=dark" alt="lalitpatil891" />/p--->
-  
+  <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <a href="https://github.com/lalitpatil891">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lalitpatil891&theme=algolia" height="180em" />
