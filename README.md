@@ -11,8 +11,8 @@
 
 ## Glad to see you here! &nbsp; 
 
-I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
-As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.\n
+I am a full-stack software engineer. I love programming, reading, writing and speaking.
+As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
@@ -20,14 +20,14 @@ That's why I like to make things that make a difference.
 <h3 align="left">Full Stack Web Developer</h3>
 
 ### Talking about Personal Stuff:
-  👨‍🎓 I'm a **Computer Engineering Student**
-- 🔭 I’m currently working on "Smart Solar Grass Cutter" (Final Year Project).
+  👨‍🎓 I'm a **Software Engineering Student**
+- 🔭 I’m currently working on "Smart Solar Grass Cutter with Lawn Coverage" (#Final_Year_Project).
 - 🌱 I’m currently learning:
     - Android App Development on [Internshala](https://trainings.internshala.com/android-course/?tracking_source=trainings-dropdown-programming) 
     - Data Structures and Algorithms on [LeetCode](https://leetcode.com/lalitpatil_8/)
 - 📬 How to reach me: [lp613408@gmail.com](mailto:lp613408@gmail.com)
 - 📝 [Resume](https://drive.google.com/drive/u/0/folders/1ByA_QaUhUdGojqBcY-P8VKv3f5d3pSbx?q=parent:1ByA_QaUhUdGojqBcY-P8VKv3f5d3pSbx)
-- ⚡ Fun fact **Coding humor: Debugging is finding a needle in a haystack-sized code.**
+- ⚡ Fun fact **No Words😅😂🤣**
   
 ## 🛠️ My Favourite tools and languages
 
