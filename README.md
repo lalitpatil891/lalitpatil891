@@ -1,5 +1,5 @@
 <!---img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" /----->
-# Welcome to [Lalit Patil's]('https://github.com/lalitpatil891') profile! <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Lalit Patil's]('https://github.com/lalitpatil891') profile! <a href="https://github.com/lalitpatil891"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <a href="https://linkedin.com/in/lalit-patil-48b3b1243" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalit-patil-48b3b1243" height="30" width="40" /></a>
 &nbsp;
 <a href="https://twitter.com/Lalit__8" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lalit__8" height="30" width="40" /></a>
@@ -12,15 +12,15 @@
 ## Glad to see you here! &nbsp; 
 
 I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
-As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
+As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.\n
 That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="left">Full Stack Web Developer</h3>
 
 ### Talking about Personal Stuff:
-👨‍🎓 I'm a **Computer Engineering Student**
+  👨‍🎓 I'm a **Computer Engineering Student**
 - 🔭 I’m currently working on "Smart Solar Grass Cutter" (Final Year Project).
 - 🌱 I’m currently learning:
     - Android App Development
@@ -28,7 +28,7 @@ That's why I like to make things that make a difference.
 - 📬 How to reach me: [lp613408@gmail.com](mailto:lp613408@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
 - ⚡ Fun fact **Coding humor: Debugging is finding a needle in a haystack-sized code.**
-- 
+  
 ## 🛠️ My Favourite tools and languages
 
 ### 👨‍💻 Programming languages
@@ -90,10 +90,7 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/lalitpatil891">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lalitpatil891&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lalitpatil891&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lalitpatil891&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lalitpatil891&theme=2077" height="180em" />
+height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lalitpatil891&theme=algolia" height="180em" />
 </div>
 ---
