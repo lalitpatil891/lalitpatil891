@@ -80,7 +80,7 @@ CSS          3 mins          ░░░░░░░░░░░░░░░░░
 
 <br />
 </details>
-<h3 align="left">Stars</h3>
+<h3 align="center">Stars</h3>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitpatil891&langs_count=8&theme=dark" alt=lalitpatil891 />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lalitpatil891&show_icons=true&locale=en&theme=dark" alt="lalitpatil891" /></p>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitpatil891&theme=dark" alt="lalitpatil891" /></p>
