@@ -26,7 +26,7 @@ That's why I like to make things that make a difference.
     - Android App Development on [Internshala](https://trainings.internshala.com/android-course/?tracking_source=trainings-dropdown-programming) 
     - Data Structures and Algorithms on [LeetCode](https://leetcode.com/lalitpatil_8/)
 - 📬 How to reach me: [lp613408@gmail.com](mailto:lp613408@gmail.com)
-- 📝 [Resume](https://drive.google.com/drive/u/0/folders/1ByA_QaUhUdGojqBcY-P8VKv3f5d3pSbx?q=parent:1ByA_QaUhUdGojqBcY-P8VKv3f5d3pSbx)
+- 📝 [Resume](https://drive.google.com/file/d/1tzqSI8r1nwtH4mppI6sBDHYJ0cFyzLVr/view)
 - ⚡ Fun fact **No Words😅😂🤣**
   
 ## 🛠️ My Favourite tools and languages
