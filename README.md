@@ -65,17 +65,11 @@ That's why I like to make things that make a difference.
 </p>
 
 ## 📊 Stats
-[![wakatime](https://wakatime.com/badge/user/018db10d-ffa2-442f-8d5f-13e55623110b/project/018db11f-5b41-42e6-a865-521ac5aca075.svg)](https://wakatime.com/badge/user/018db10d-ffa2-442f-8d5f-13e55623110b/project/018db11f-5b41-42e6-a865-521ac5aca075) <b>&nbsp; coded, since FEB 16 2024</b>
+[![wakatime](https://wakatime.com/badge/user/018db10d-ffa2-442f-8d5f-13e55623110b/project/ff39cd29-9c1c-4dbb-8ffd-765e38462d7c.svg)](https://wakatime.com/badge/user/018db10d-ffa2-442f-8d5f-13e55623110b/project/ff39cd29-9c1c-4dbb-8ffd-765e38462d7c)
 
 📊 <b>This Week I Spent My Time On</b>
 
-<!---START_SECTION:waka--->
-```text
 
-JavaScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   70.00 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   30.55 % 
-
-```
 <!---END_SECTION:waka--->
 
 
