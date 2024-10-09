@@ -71,7 +71,7 @@ That's why I like to make things that make a difference.
 
 
 <!---END_SECTION:waka--->
-<img src="https://wakatime.com/share/@lalitpatil891/8c66580b-4f86-43d4-b422-171481d9115a.png"  width="200em"/>
+<img src="https://wakatime.com/share/@lalitpatil891/8c66580b-4f86-43d4-b422-171481d9115a.png"  width="400em" aligh="center"/>
 
 <br/>
 
