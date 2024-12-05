@@ -12,7 +12,7 @@
 ## Glad to see you here! &nbsp; 
 
 I am a full-stack Developer. I love programming, reading, writing and speaking.
-As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.<br/>
+As a Developer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.<br/>
 That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="408" height="318" />
@@ -23,7 +23,7 @@ That's why I like to make things that make a difference.
   👨‍🎓 I'm a **Software Engineering Student**
 - 🔭 I’m currently working on "Smart Solar Grass Cutter with Lawn Coverage" (#Final_Year_Project).
 - 🌱 I’m currently learning:
-    - Java Full Stack Development. 
+    - Reat + MongoDB. 
 - 📬 How to reach me: [lp613408@gmail.com](mailto:lp613408@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1tzqSI8r1nwtH4mppI6sBDHYJ0cFyzLVr/view)
 - ⚡ Fun fact **No Words😅😂🤣**
