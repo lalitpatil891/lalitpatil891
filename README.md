@@ -1,5 +1,5 @@
 <!---img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" /----->
-# Welcome to [Lalit Patil's](https://lalitpatil891.github.io/LalitPortfolio/) profile! <a href="https://lalitpatil891.github.io/LalitPortfolio/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Lalit Patil's](https://lalitpatil891.github.io/MyPortfolio/) profile! <a href="https://lalitpatil891.github.io/LalitPortfolio/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <a href="https://linkedin.com/in/lalit-patil-48b3b1243" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalit-patil-48b3b1243" height="30" width="40" /></a>
 &nbsp;
 <a href="https://twitter.com/Lalit__8" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lalit__8" height="30" width="40" /></a>
