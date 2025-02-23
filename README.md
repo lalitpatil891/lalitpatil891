@@ -20,10 +20,8 @@ That's why I like to make things that make a difference.
 <h3 align="left">Full Stack Web Developer</h3>
 
 ### Talking about Personal Stuff:
-  👨‍🎓 I'm a **Software Engineering Student**
-- 🔭 I’m currently working on "Smart Solar Grass Cutter with Lawn Coverage" (#Final_Year_Project).
 - 🌱 I’m currently learning:
-    - Reat + MongoDB. 
+    - ReatJS + MongoDB. 
 - 📬 How to reach me: [lp613408@gmail.com](mailto:lp613408@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1tzqSI8r1nwtH4mppI6sBDHYJ0cFyzLVr/view)
 - ⚡ Fun fact **No Words😅😂🤣**
@@ -33,7 +31,6 @@ That's why I like to make things that make a difference.
 ### 👨‍💻 Programming languages
 <p>
     <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -64,7 +61,9 @@ That's why I like to make things that make a difference.
 </p>
 
 ## 📊 Stats
-[![wakatime](https://wakatime.com/badge/user/018db10d-ffa2-442f-8d5f-13e55623110b/project/ff39cd29-9c1c-4dbb-8ffd-765e38462d7c.svg)](https://wakatime.com/badge/user/018db10d-ffa2-442f-8d5f-13e55623110b/project/ff39cd29-9c1c-4dbb-8ffd-765e38462d7c)
+[![wakatime](https://wakatime.com/badge/user/018db10d-ffa2-442f-8d5f-13e55623110b.svg)](https://wakatime.com/@018db10d-ffa2-442f-8d5f-13e55623110b)
+
+<figure><embed src="https://wakatime.com/share/@lalitpatil891/fc61cf08-6785-41c7-a6f3-9973408ea2a9.svg"></embed></figure>
 
 📊 <b>This Week I Spent My Time On</b>
 
