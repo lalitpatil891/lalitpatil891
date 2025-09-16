@@ -28,6 +28,6 @@
 
 
 <!---END_SECTION:waka--->
-<img src="https://wakatime.com/share/@lalitpatil891/8c66580b-4f86-43d4-b422-171481d9115a.png"  width="80em" align="center"/>
+<img src="https://wakatime.com/share/@lalitpatil891/8c66580b-4f86-43d4-b422-171481d9115a.png"  width="600em" align="center"/>
 
 <br/>
