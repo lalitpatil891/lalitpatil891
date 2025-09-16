@@ -9,8 +9,9 @@
 - Tools: Git, GitHub, Docker, Jenkins,Jira
 - SDLC - agile/scrum, 
 
-### 📊 GitHub Stats
-![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitpatil&show_icons=true&theme=dark)
+
+<!---### 📊 GitHub Stats
+![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalitpatil&show_icons=true&theme=dark) --->
 
 ### 🌐 Connect with me
 - 📬 How to reach me: [lalitpatil8901@gmail.com](mailto:lalitpatil8901@gmail.com)
@@ -27,6 +28,6 @@
 
 
 <!---END_SECTION:waka--->
-<img src="https://wakatime.com/share/@lalitpatil891/8c66580b-4f86-43d4-b422-171481d9115a.png"  width="800em" align="center"/>
+<img src="https://wakatime.com/share/@lalitpatil891/8c66580b-4f86-43d4-b422-171481d9115a.png"  width="80em" align="center"/>
 
 <br/>
