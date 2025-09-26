@@ -4,7 +4,7 @@
 
 ### 🛠 Skills
 - Backend: Java, Spring Boot, REST API
-- Frontend: React.js, Tailwind CSS
+- Frontend: React.js, Tailwind CSS, HTML, CSS, JavaScript
 - Database: MySQL, PostgreSQL, MongoDB, Oracle
 - Tools: Git, GitHub, Docker, Jenkins,Jira
 - SDLC - agile/scrum, 
